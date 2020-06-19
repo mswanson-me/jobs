@@ -1,0 +1,1 @@
+web: node api/index.js && node worker/index.js && cd client && npm start
